@@ -1,35 +1,36 @@
 # Site
-repository: sproogen/resume-theme
+repository: germanp/germanp.github.io
 # favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Germán Martín Podestá
+title: Full-stack Web Developer
+email: german.m.podesta@gmail.com
+website: https://germanp.github.io
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+github_username:  germanp
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
+# instagram_username: chillwildlife
+linkedin_username: germanmpodesta
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  I'm an information systems graduate with 8+ years of experience in software development. I have strong skills in django and python and I have worked with server administration and CI. I also worked with vuejs in the frontend.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I believe that well-documented code and decisions are keystone when building a good product, they favor communication saving a lot of effort from misunderstandings and frustration. They also encourage communication and teamwork.
+
+  I am most skilled in: <mark>Python</mark> <mark>Javascript</mark> <mark>Typescript</mark> <mark>Unit Testing</mark> <mark>Docker</mark> <mark>Deployment</mark> <mark>CI</mark>
 
 # Projects Section
-# projects_title: Projects
+projects_title: Featured Projects
 
 # Experience Section
 # experience_title: Experience
@@ -40,14 +41,11 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  Besides working on software engineering, which I love, I like practising Yoga
+  and taking care of my pets.
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 
 # Build settings
 remote_theme: sproogen/resume-theme

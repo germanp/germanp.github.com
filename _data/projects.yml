@@ -1,7 +1,39 @@
-- name: Super awesome project
-  link: github.com/sproogen
-  github: sproogen/resume-theme
-  quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+- name: SIGEHOS
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    Healthcare management that centralizes the administration of over 20 health centers in the
+    city of Buenos Aires. One of the main challenges was handling multi-tenancy as every health
+    center has their own database, but there were mixed versions of the software and the data
+    schema was different. We had to craft a customization over django rest framework in order
+    to handle views with overlapping names (actually with overlapping features).
+
+    <mark>Django</mark> <mark>Django Rest-Framework</mark>
+    <mark>MySQL</mark> <mark>PyGtk</mark> <mark>WxPython</mark>
+
+- name: Qwil
+  # link: github.com/sproogen
+  # github: sproogen/resume-theme
+  # quote: |
+  description: | # this will include new lines to allow paragraphs
+    It covered the onboarding and off-boarding process of workers under different
+    schemas of work. The software handles approving and signing paperwork as well
+    the granting of equity.
+    One of the challenges was to handle all the different states of the documents
+    and approval required. We solved it implementing a state machine with their
+    states and transitions.
+
+    <mark>Django</mark>
+    <mark>Django Rest-Framework</mark> <mark>PostgreSQL</mark> <mark>Docker</mark>
+    <mark>TDD</mark> <mark>OAuth2 Provider</mark> <mark>AngularJs</mark>
+
+- name: Betterez
+  description: |
+    Travel tickets and reservation management platform implemented from the ground up
+    in *nodeJS*, *express* and *mongodb*. I've took part in the development of the
+    frontend for public facing tickets selling.
+
+    The main challenge was to work with a bleeding edge technology like *NuxtJs* is
+    and be able to figure out the bases for the rest of the development team. Also,
+    handle test automation for almost all the browser was quite challenging.
+
+    <mark>NodeJs</mark> <mark>MongoDB</mark> <mark>TDD</mark> <mark>VueJs</mark>
+    <mark>Vuex</mark> <mark>WebdriverIO</mark>

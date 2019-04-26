@@ -1,9 +1,14 @@
-- name: Harvard University
-  dates: 2010 - 2013
-  qualification: BSc Computer Science
+- name: UNLa
+  dates: 2008 - 2017
+  qualification: Bachelor on Information Systems
   quote: >
-    Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-  description: | # this will include new lines to allow paragraphs
-    During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-    I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+    Is a young university founded in 1995. They focus on the distribution of knowledge in order to foment the economic development of the region.
+  description: |
+    During my stay at the university I learned the basic concepts of the different disciplines that make up the computer science.
+    This gave me the knowledge that most of problems in computer science were already addressed, but the main challenge is reconciling the pragmatism need at work with the perfectionism of the theory.
+- name: Technical School No. 3
+  dates: 2004 - 2007
+  qualification: Computer technician
+  quote: High school with technical orientation.
+  description: |
+    Here I took the first steps in software development, I did some little programs using Visual Basic and some basic pages in HTML.
