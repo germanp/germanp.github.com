@@ -21,8 +21,7 @@
     and approval required. We solved it implementing a state machine with their
     states and transitions.
 
-    <mark>Django</mark>
-    <mark>Django Rest-Framework</mark> <mark>PostgreSQL</mark> <mark>Docker</mark>
+    <mark>Django-Rest-Framework</mark> <mark>PostgreSQL</mark> <mark>Docker</mark>
     <mark>TDD</mark> <mark>OAuth2 Provider</mark> <mark>AngularJs</mark>
 
 - name: Betterez

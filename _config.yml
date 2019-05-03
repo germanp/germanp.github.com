@@ -6,6 +6,7 @@ repository: germanp/germanp.github.io
 name: Germán Martín Podestá
 title: Full-stack Web Developer
 email: german.m.podesta@gmail.com
+phone: +54 11-5780-4129
 website: https://germanp.github.io
 
 # Social links
@@ -27,7 +28,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   I believe that well-documented code and decisions are keystone when building a good product, they favor communication saving a lot of effort from misunderstandings and frustration. They also encourage communication and teamwork.
 
-  I am most skilled in: <mark>Python</mark> <mark>Javascript</mark> <mark>Typescript</mark> <mark>Unit Testing</mark> <mark>Docker</mark> <mark>Deployment</mark> <mark>CI</mark>
+  I am most skilled in: <mark>Python</mark> <mark>Javascript</mark> <mark>Typescript</mark> <mark>TDD</mark> <mark>Docker</mark> <mark>Deployment</mark> <mark>CI</mark>
 
 # Projects Section
 projects_title: Featured Projects
@@ -39,10 +40,10 @@ projects_title: Featured Projects
 # educaton_title: Education
 
 # More Section
-more_title: A Little More About Me
-more_content: | # this will include new lines to allow paragraphs
-  Besides working on software engineering, which I love, I like practising Yoga
-  and taking care of my pets.
+more_title:
+# more_content: | # this will include new lines to allow paragraphs
+#   Besides working on software engineering, which I love, I like practising Yoga
+#   and taking care of my pets.
 
 # Footer
 footer_show_references: false

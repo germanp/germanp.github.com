@@ -11,21 +11,21 @@
 - company: Cooperativa de Trabajo Devecoop
   link: www.devecoop.com
   job_title: Partner
-  dates: November 2017 - Present
+  dates: Nov. 2017 - Present
   description: | # this will include new lines to allow paragraphs
     I gained most of my experience here. I worked with a lot of projects,
     some from Argentina, some other internationals, sometimes taking part
     of their team and sometimes with our own team. I also was in charge of
     the server infrastructure of the company.
 
-    I'm mostly work in: <mark>Django</mark> <mark>JavaScript</mark>
+    I mostly worked on: <mark>Django</mark> <mark>JavaScript</mark>
     <mark>AngularJs</mark> <mark>Vue.js</mark> <mark>Docker</mark> <mark>Docker-Compose</mark>
     <mark>Swagger</mark> <mark>Python</mark> <mark>Selenium</mark> <mark>BDD</mark>
 
 - company: CableNetwork Argentina
   link: cnatechnology.com
   job_title: Freelance Developer
-  dates: March 2010 - Sep 2010
+  dates: March 2010 - Sep. 2010
   quote: |
     Drop and trunk cable producer for use in CATV and DTH systems.
   description: | # this will include new lines to allow paragraphs
@@ -36,7 +36,7 @@
 - company: Natatorio Hera
   #link: cnatechnology.com
   job_title: Customer Service
-  dates: February 2007 - February 2010
+  dates: Feb. 2007 - Feb. 2010
   #quote: |
   description: | # this will include new lines to allow paragraphs
     As a part-time job it let me to keep with my studies. I also wrote a software to help

@@ -1,0 +1,62 @@
+@media print {
+    @page {
+        margin: 10mm 5mm 5mm 5mm;
+    }
+
+    * {
+        -webkit-transition: none !important;
+        transition: none !important;
+    }
+
+    * {
+        -webkit-print-color-adjust: exact !important;   /* Chrome, Safari */
+        color-adjust: exact !important;                 /*Firefox*/
+    }
+
+    .container.header-contianer {
+        margin-top: 0;
+    }
+
+    .container.footer-container {
+        display: none
+    }
+
+    // h4 {
+    //     break-after: avoid-page;
+    //     page-break-after: avoid;
+    // }
+
+    mark {
+        background: #333!important;
+        color: white!important;
+    }
+
+    h1, h2, h3, h4 {
+        color: black;
+    }
+
+    .no-print {
+        display: block!important;
+    }
+
+    .col-print-12 {
+        width: 75%;
+    }
+
+    .left-column {
+        width: 25%;
+    }
+
+    .intro-container .no-print {
+        width: 25%;
+    }
+
+    .intro-container .profile-img {
+        display: block!important;
+        background-size: cover!important;
+        background-position: center!important;
+        background-repeat: repeat, no-repeat!important;
+        background-image: url(/images/profile.jpg)!important;
+        width: 100%;
+    }
+}
