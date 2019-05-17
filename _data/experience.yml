@@ -11,7 +11,7 @@
 - company: Cooperativa de Trabajo Devecoop
   link: www.devecoop.com
   job_title: Partner
-  dates: Nov. 2017 - Present
+  dates: May. 2013 - Nov. 2017
   description: | # this will include new lines to allow paragraphs
     I gained most of my experience here. I worked with a lot of projects,
     some from Argentina, some other internationals, sometimes taking part
@@ -26,8 +26,8 @@
   link: cnatechnology.com
   job_title: Freelance Developer
   dates: March 2010 - Sep. 2010
-  quote: |
-    Drop and trunk cable producer for use in CATV and DTH systems.
+#   quote: |
+#     Drop and trunk cable producer for use in CATV and DTH systems.
   description: | # this will include new lines to allow paragraphs
     My first software freelance work. I created a QA software that takes measurements
     of the end product and produces a quality report used for analysis in QA sector and also

@@ -1,14 +1,14 @@
 - name: UNLa
   dates: 2008 - 2017
   qualification: Bachelor on Information Systems
-  quote: >
-    Is a young university founded in 1995. They focus on the distribution of knowledge in order to foment the economic development of the region.
+  # quote: >
+  #   Is a young university founded in 1995. They focus on the distribution of knowledge to foment the economic development of the region.
   description: |
-    During my stay at the university I learned the basic concepts of the different disciplines that make up the computer science.
+    At the university I learned the basic concepts of the many different disciplines inside computer science.
     This gave me the knowledge that most of problems in computer science were already addressed, but the main challenge is reconciling the pragmatism need at work with the perfectionism of the theory.
-- name: Technical School No. 3
+- name: Technical School
   dates: 2004 - 2007
   qualification: Computer technician
-  quote: High school with technical orientation.
+  # quote: High school with technical orientation.
   description: |
     Here I took the first steps in software development, I did some little programs using Visual Basic and some basic pages in HTML.

@@ -40,11 +40,11 @@ projects_title: Featured Projects
 # educaton_title: Education
 
 # More Section
-more_title:
-# more_content: | # this will include new lines to allow paragraphs
-#   Besides working on software engineering, which I love, I like practising Yoga
-#   and taking care of my pets.
-
+more_title: Others
+more_content: | # this will include new lines to allow paragraphs
+  + Django-Girls coach in PyCon 2018
+  + Social Economy course in UNLa
+  + Autonomous Taxes management course in the University of Buenos Aires
 # Footer
 footer_show_references: false
 

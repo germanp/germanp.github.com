@@ -31,8 +31,8 @@
     frontend for public facing tickets selling.
 
     The main challenge was to work with a bleeding edge technology like *NuxtJs* is
-    and be able to figure out the bases for the rest of the development team. Also,
-    handle test automation for almost all the browser was quite challenging.
+    and be able to figure out the bases for the rest of the development team and
+    mantaining test automation working for a wide variety of web browsers.
 
     <mark>NodeJs</mark> <mark>MongoDB</mark> <mark>TDD</mark> <mark>VueJs</mark>
     <mark>Vuex</mark> <mark>WebdriverIO</mark>
